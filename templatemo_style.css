@@ -86,7 +86,7 @@ img {
 #templatemo_menu {
 	clear: both;
 	width: 960px;
-	height: 45px;
+	height: 50px;
 	background: url(templatemo_menu_bg.jpg) no-repeat;
 }
 
@@ -179,7 +179,7 @@ img {
 
 #templatemo_content #templatemo_content_left {
 	float: left;
-	width: 188px;
+	width: 88px;
 	padding: 10px;
 	background-color: #171716;
 	border: 1px solid #212120;
